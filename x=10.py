@@ -1,2 +1,2 @@
-x="HAHA"
+x="HOHOH"
 print(x)
